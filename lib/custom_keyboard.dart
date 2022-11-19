@@ -283,7 +283,7 @@ class CustomKeyboard extends StatelessWidget {
                   padding: EdgeInsets.all(16),
                   child: Icon(
                     Icons.backspace,
-                    color: Colors.white,
+                    color: textStyle.color,
                   ),
                 ),
               ),
